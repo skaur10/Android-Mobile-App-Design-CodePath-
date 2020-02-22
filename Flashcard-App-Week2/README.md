@@ -5,7 +5,7 @@
 
 ### App Walk-though
 
-<img src="https://recordit.co/HFUcpERFzQ" width=200><br>
+<img src="http://g.recordit.co/HFUcpERFzQ.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
