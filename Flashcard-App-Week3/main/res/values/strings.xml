@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flashcard</string>
+    <string name="what_is_a_static_variable_in_java">What is a static variable in Java?</string>
+    <string name="variable_that_is_common_to_all_instances_in_a_class">Variable that is common to all instances in a class</string>
+    <string name="todo">TODO</string>
+    <string name="text">Enter Text Here</string>
+    <string name="Question">Enter Question Here</string>
+    <string name="Answer">Enter Answer Here</string>
+</resources>
