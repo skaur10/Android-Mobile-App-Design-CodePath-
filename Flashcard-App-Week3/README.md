@@ -3,8 +3,9 @@
 ### App Description
 The week 3 lab for the Flashcard App allows the user to click on the "+" button which takes them to a new screen where they can create a new card by entering a new question and answer.
 
-### App Walk-though
-http://g.recordit.co/3ijkvZtU9r.gif
+### App Walk-through
+
+<img src="http://g.recordit.co/3ijkvZtU9r.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
