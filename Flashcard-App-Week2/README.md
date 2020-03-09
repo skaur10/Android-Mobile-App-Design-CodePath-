@@ -3,7 +3,7 @@
 ## Lab 1
 ### This app asks a question on the screen and gives the answer when clicked. 
 
-### App Walk-though
+### App Walk-through
 
 <img src="http://g.recordit.co/HFUcpERFzQ.gif" width=200><br>
 
