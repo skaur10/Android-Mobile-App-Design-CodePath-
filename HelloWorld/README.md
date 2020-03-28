@@ -1,4 +1,4 @@
-## hello-world
+## Hello-World
 
 ### App Description
 Hello World app created in Android Studio using Java. 
